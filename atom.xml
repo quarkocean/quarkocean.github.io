@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://quarkocean.com</id>
     <title>Gridea</title>
-    <updated>2019-10-04T08:14:15.330Z</updated>
+    <updated>2019-10-04T08:16:23.630Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://quarkocean.com"/>
     <link rel="self" href="https://quarkocean.com/atom.xml"/>
@@ -466,38 +466,6 @@ Encore:<br>
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://quarkocean.com/post/hello-gridea</id>
-        <link href="https://quarkocean.com/post/hello-gridea">
-        </link>
-        <updated>2018-12-11T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
-<!-- more -->
-<p><a href="https://github.com/getgridea/gridea">Github</a><br>
-<a href="https://gridea.dev/">Gridea 主页</a><br>
-<a href="http://fehey.com/">示例网站</a></p>
-<h2 id="特性">特性👇</h2>
-<p>📝  你可以使用最酷的 <strong>Markdown</strong> 语法，进行快速创作</p>
-<p>🌉  你可以给文章配上精美的封面图和在文章任意位置插入图片</p>
-<p>🏷️  你可以对文章进行标签分组</p>
-<p>📋  你可以自定义菜单，甚至可以创建外部链接菜单</p>
-<p>💻  你可以在 <strong>Windows</strong>，<strong>MacOS</strong> 或 <strong>Linux</strong> 设备上使用此客户端</p>
-<p>🌎  你可以使用 <strong>𝖦𝗂𝗍𝗁𝗎𝖻 𝖯𝖺𝗀𝖾𝗌</strong> 或 <strong>Coding Pages</strong> 向世界展示，未来将支持更多平台</p>
-<p>💬  你可以进行简单的配置，接入 <a href="https://github.com/gitalk/gitalk">Gitalk</a> 或 <a href="https://github.com/SukkaW/DisqusJS">DisqusJS</a> 评论系统</p>
-<p>🇬🇧  你可以使用<strong>中文简体</strong>或<strong>英语</strong></p>
-<p>🌁  你可以任意使用应用内默认主题或任意第三方主题，强大的主题自定义能力</p>
-<p>🖥  你可以自定义源文件夹，利用 OneDrive、百度网盘、iCloud、Dropbox 等进行多设备同步</p>
-<p>🌱 当然 <strong>Gridea</strong> 还很年轻，有很多不足，但请相信，它会不停向前 🏃</p>
-<p>未来，它一定会成为你离不开的伙伴</p>
-<p>尽情发挥你的才华吧！</p>
-<p>😘 Enjoy~</p>
-]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[2018.11.24 EXILE STAR OF WISH Tour in Nagoya Dome]]></title>
         <id>https://quarkocean.com/post/EXILEinNagoya</id>
         <link href="https://quarkocean.com/post/EXILEinNagoya">
@@ -574,21 +542,117 @@ SAMURIZE from EXILE TRIBE Performance</li>
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[哈尔的移动城堡纸模-p26树&其他]]></title>
-        <id>https://quarkocean.com/post/e5-93-88-e5-b0-94-e7-9a-84-e7-a7-bb-e5-8a-a8-e5-9f-8e-e5-a0-a1-e7-ba-b8-e6-a8-a1-p26-e6-a0-91</id>
-        <link href="https://quarkocean.com/post/e5-93-88-e5-b0-94-e7-9a-84-e7-a7-bb-e5-8a-a8-e5-9f-8e-e5-a0-a1-e7-ba-b8-e6-a8-a1-p26-e6-a0-91">
+        <title type="html"><![CDATA[我与鱼眼儿]]></title>
+        <id>https://quarkocean.com/post/e6-88-91-e4-b8-8e-e9-b1-bc-e7-9c-bc-e5-84-bf</id>
+        <link href="https://quarkocean.com/post/e6-88-91-e4-b8-8e-e9-b1-bc-e7-9c-bc-e5-84-bf">
         </link>
-        <updated>2018-08-30T03:32:59.000Z</updated>
-        <content type="html"><![CDATA[<p>最后一张图纸了~ 比想象当中要难很多的树，哭哭TAT 还是先图纸：<img src="https://quarkocean.oss-cn-hongkong.aliyuncs.com/2018/08/p26-0.jpg" alt=""> 剪好的树干，树冠，剪起来也是很麻烦滴Orz<img src="https://quarkocean.oss-cn-hongkong.aliyuncs.com/2018/08/p26-1.jpg" alt=""> 做树真的不是一般的麻烦，言而总之，总而言之，很让人暴躁呢，做到最后一棵树才找到诀窍Orz<img src="https://quarkocean.oss-cn-hongkong.aliyuncs.com/2018/08/p26-2.jpg" alt=""> <img src="https://quarkocean.oss-cn-hongkong.aliyuncs.com/2018/08/p26-3.jpg" alt=""> 拼装后：<img src="https://quarkocean.oss-cn-hongkong.aliyuncs.com/2018/08/6.jpg" alt=""> <img src="https://quarkocean.oss-cn-hongkong.aliyuncs.com/2018/08/4.jpg" alt=""> 还有其他一些小部件，也在这篇帖子里写一下吧，比如说滑车：<img src="https://quarkocean.oss-cn-hongkong.aliyuncs.com/2018/08/p25-8.jpg" alt=""> <img src="https://quarkocean.oss-cn-hongkong.aliyuncs.com/2018/08/p25-10.jpg" alt=""> 比如说悬挂衣服：<img src="https://quarkocean.oss-cn-hongkong.aliyuncs.com/2018/08/p25-9.jpg" alt=""> <img src="https://quarkocean.oss-cn-hongkong.aliyuncs.com/2018/08/7.jpg" alt=""> 比如说小水桶和楼梯：（成品见下一篇帖子）<img src="https://quarkocean.oss-cn-hongkong.aliyuncs.com/2018/08/%E6%B0%B4%E6%A1%B6.jpg" alt=""> <img src="https://quarkocean.oss-cn-hongkong.aliyuncs.com/2018/08/%E6%A5%BC%E6%A2%AF.jpg" alt=""> 以上、つづく</p>
+        <updated>2017-10-25T03:32:59.000Z</updated>
+        <content type="html"><![CDATA[<p>其实也不知道为什么突然就很想写一些关于鱼眼儿咖啡的文字。</p>
+<p>现在是凌晨一点钟。</p>
+<p>最初的最初已经有点遥远，甚至不太想回忆，但是，是黑莓把我们串在了一块。又因为喜欢咖啡，开始慢慢关注鱼眼儿咖啡。</p>
+<p>Fish本人，就是一个非常有人格魅力的人，太有趣，总是惦记着能够有一天同他聊一下人生。</p>
+<p>2012年还是2013年，一个人去北京玩，总是很喜欢约了朋友在三里屯见面吃饭。那时候认识一个大哥哥，就在东四十条地铁站下来不远的火锅店吃饭。 我记得那个时候我真的好饿，火锅端上来之前，我一个人吃掉一碗炒饭，记忆犹新。然后又负责把火锅的三分之二消灭干净，真是怀念又羡慕那个时候战斗力无比的自己。</p>
+<p>自然是吃撑了，在人前依然得假装悠然自得。和朋友告别以后，竟然路过三里屯的鱼眼儿，亮堂堂的店面，满眼的蓝色，到现在都好像是仿佛眼前的事，傻乎乎的问店员点了一杯消食的咖啡，嗯，真的不记得什么品种的豆子了。那杯手冲可能是我喝过的，最好喝的咖啡，没有之一。真的喝完以后，满血复活，哈哈哈。 那样子的感觉，一直到今年鱼眼儿2.0在长乐路上重开才又有机会重温。</p>
+<p>因为那种感觉一直怀念着，没有忘记。 昨天特地下班飞奔到嘉里中心新开的第二家鱼眼儿，点了心心念念的屯拼。是啊，一整个夏天都在喝氮气，真是鬼迷心窍，着迷不已。终于有机会喝上手冲了，屯拼那种柔和的感觉，一瞬间，又把我带回了过去，幸好我还记得，感动不已。</p>
+<p>我困了，要去睡觉了。</p>
+<p>作为结束，还是借fish之前那句我很喜欢的句子：咖啡嘛，为什么要分tall, grande呢，想喝就再来一杯嘛:-)</p>
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[哈尔的移动城堡纸模-p18&19烟囱]]></title>
-        <id>https://quarkocean.com/post/e5-93-88-e5-b0-94-e7-9a-84-e7-a7-bb-e5-8a-a8-e5-9f-8e-e5-a0-a1-e7-ba-b8-e6-a8-a1-p1819-e7-83-9f-e5-9b-b1</id>
-        <link href="https://quarkocean.com/post/e5-93-88-e5-b0-94-e7-9a-84-e7-a7-bb-e5-8a-a8-e5-9f-8e-e5-a0-a1-e7-ba-b8-e6-a8-a1-p1819-e7-83-9f-e5-9b-b1">
+        <title type="html"><![CDATA[HELLO, AGAIN～昔からある場所～]]></title>
+        <id>https://quarkocean.com/post/hello-again</id>
+        <link href="https://quarkocean.com/post/hello-again">
         </link>
-        <updated>2018-08-23T03:32:59.000Z</updated>
-        <content type="html"><![CDATA[<p>把烟囱AB合在一起写了~ 还是先上原来的图纸~<img src="https://quarkocean.oss-cn-hongkong.aliyuncs.com/2018/08/p18-0.jpg" alt=""> <img src="https://quarkocean.oss-cn-hongkong.aliyuncs.com/2018/08/p19-0.jpg" alt=""> 剪好的部件~<img src="https://quarkocean.oss-cn-hongkong.aliyuncs.com/2018/08/p18-1.jpg" alt=""> <img src="https://quarkocean.oss-cn-hongkong.aliyuncs.com/2018/08/p19-1.jpg" alt=""> 部件完成图~<img src="https://quarkocean.oss-cn-hongkong.aliyuncs.com/2018/08/p18-2.jpg" alt=""> <img src="https://quarkocean.oss-cn-hongkong.aliyuncs.com/2018/08/p19-2.jpg" alt=""> 整合图，很奇怪明明制作的时候还是蛮困难的，写这个贴子回顾时却不觉得（科科<img src="https://quarkocean.oss-cn-hongkong.aliyuncs.com/2018/08/p19-3.jpg" alt=""> 以上、つづく</p>
+        <updated>2017-09-30T03:32:59.000Z</updated>
+        <content type="html"><![CDATA[<p>till we love forever...</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vLHP3hU-4ps" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<p>いつも 君と 待ち続けた<br>
+季节は 何も言わず 通り过ぎた</p>
+<p>雨はこの街に 降り注ぐ<br>
+少しの リグレットと罪を<br>
+包み込んで</p>
+<p>泣かないことを 誓ったまま<br>
+时は过ぎ 痛む心に<br>
+気が付かずに<br>
+仆は一人になった</p>
+<p>记忆の中で ずっと二人は<br>
+生きて行ける 君の声が<br>
+今も胸に响くよ<br>
+それは爱が彷徨う影<br>
+君は少し泣いた<br>
+あの时见えなかった</p>
+<p>自分の限界が どこまでかを<br>
+知るために 仆は生きてる訳じゃない</p>
+<p>だけど 新しい扉を开け<br>
+海に出れば 波の彼方に<br>
+ちゃんと”果て”を感じられる</p>
+<p>この手伸ばして 空に进み<br>
+风を受けて 生きて行こう<br>
+どこかでまためぐるよ<br>
+远い昔からある场所<br>
+夜の间でさえ 季节は変わって行く</p>
+<p>雨は やがて あがっていた</p>
+<p>记忆の中で ずっと二人は<br>
+生きて行ける 君の声が<br>
+今も胸に响くよ<br>
+それは爱が彷徨う影<br>
+君は少し泣いた<br>
+あの时见えなかった</p>
+<p>Hello, again a feeling heart<br>
+Hello, again my old dear place</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Invincible]]></title>
+        <id>https://quarkocean.com/post/invincible</id>
+        <link href="https://quarkocean.com/post/invincible">
+        </link>
+        <updated>2017-09-10T03:32:59.000Z</updated>
+        <content type="html"><![CDATA[<p>这是一篇补记。</p>
+<p>亲爱的杰伦，明天我就要去苏州看你的演唱会了，听你的歌十七年，一想到能看到你真人，要呼吸同一片空气，我就知道我今天睡不着。</p>
+<p>没有办法，谁让你出现在我青春里的每一页呢。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[真夏の果実]]></title>
+        <id>https://quarkocean.com/post/manatsu</id>
+        <link href="https://quarkocean.com/post/manatsu">
+        </link>
+        <updated>2017-07-04T03:32:59.000Z</updated>
+        <content type="html"><![CDATA[<p>我们以前也一起唱过那么哀伤凄的歌啊</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/b3kldO_3XKM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<p>涙があふれる悲しい季節は<br>
+誰かに抱かれた 夢を見る<br>
+泣きたい気持ちは言葉に出来ない<br>
+今夜も冷たい雨が降る<br>
+こらえきれなくてため息ばかり<br>
+今もこの胸に夏は巡る</p>
+<p>四六時中も好きと言って<br>
+夢の中へ連れて行って<br>
+忘れられない Heart＆Soul<br>
+声にならない</p>
+<p>砂に書いた名前消して<br>
+波はどこへ帰るのか<br>
+通り過ぎ行く Love＆Roll<br>
+愛をそのままに</p>
+<p>マイナス１００度の太陽みたいに<br>
+身体を湿らす恋をして<br>
+めまいがしそうな真夏の果実は<br>
+今でも心に咲いている<br>
+遠く離れても黄昏時は<br>
+熱い面影が胸に迫る</p>
+<p>四六時中も好きと言って<br>
+夢の中へ連れて行って<br>
+忘れられない Heart＆Soul<br>
+夜が待てない</p>
+<p>砂に書いた名前消して<br>
+波はどこへ帰るのか<br>
+通り過ぎ行く Love＆Roll<br>
+愛をそのままに<br>
+こんな夜は涙見せずに<br>
+また逢えると言って欲しい<br>
+忘れられない Heart＆Soul<br>
+涙の果実よ</p>
 ]]></content>
     </entry>
 </feed>

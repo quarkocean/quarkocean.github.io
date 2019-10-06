@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://quarkocean.com</id>
     <title>Halo world</title>
-    <updated>2019-10-06T17:39:48.523Z</updated>
+    <updated>2019-10-06T17:42:24.932Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://quarkocean.com"/>
     <link rel="self" href="https://quarkocean.com/atom.xml"/>
@@ -758,8 +758,7 @@ Encore:<br>
 <p>你看，活着还是很好的，能够饭着本身就是一种幸福。</p>
 <figure data-type="image" tabindex="3"><img src="https://i.imgur.com/5pFfENx.jpg" alt=""></figure>
 <hr>
-<p>2017-2018 EXILE STAR OF WISH Tour<br>
-*Setlist</p>
+<p>2017-2018 EXILE STAR OF WISH Tour SETLIST</p>
 <ol>
 <li>Heads or Tails</li>
 <li>PARTY ALL NIGHT ~STAR OF WISH~</li>
@@ -793,12 +792,11 @@ SAMURIZE from EXILE TRIBE Performance</li>
 -NEW HORIZON<br>
 -Rising Sun</li>
 </ol>
-<p>-ENCORE-<br>
+<p>ENCORE<br>
 23. STYLE of 24karats<br>
 24. 24karats STAY GOLD/24karats TRIBE OF GOLD/24karats GOLD SOUL<br>
 25. 浪漫の地球<br>
 26. 銀河鉄道999</p>
-<p>以上</p>
 ]]></content>
     </entry>
     <entry>
@@ -846,7 +844,6 @@ Encore：</li>
 <li>For the future</li>
 </ol>
 <figure data-type="image" tabindex="1"><img src="https://i.imgur.com/Z4S7Iod.jpg" alt="别找了 没有我😂"></figure>
-<p>以上</p>
 ]]></content>
     </entry>
 </feed>
